@@ -8,3 +8,4 @@ Car Pooling Application is in process....
                        - create ride
                        - view booking 
                        - cancel booking
+2> Database connected 
