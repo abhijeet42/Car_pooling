@@ -1,3 +1,5 @@
+// only created this file for learning how postgresql works ( will delete this file in future )
+
 import java.sql.*;
 import java.util.Scanner;
 
